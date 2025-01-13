@@ -1,0 +1,13 @@
+{
+  "name": "leibniz-history",
+  "version": "1.0.0",
+  "description": "A website about Gottfried Leibniz with interactive math functions.",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
